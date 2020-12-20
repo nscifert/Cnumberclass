@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1575227329 source:c:\users\nscif\documents\computer science 1\numbers class\main.cpp
+	<iostream>
+	<string>
+	"Numbers.h"
+
+1575242428 c:\users\nscif\documents\computer science 1\numbers class\numbers.h
+	<iostream>
+	<string>
+
+1575227329 source:c:\users\nscif\documents\computer science 1\numbers class\numbers.cpp
+	"Numbers.h"
+	<string>
+	<cstdlib>
+
